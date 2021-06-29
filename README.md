@@ -1,8 +1,6 @@
-# C_file_compile
-Compiling  C File using GCC 
+## C_file_compile 
 
-
-***Compiling  C File using GCC ***
+***Compiling  C File using GCC***
 
 ```
 gcc filename.c -o filename 
@@ -23,7 +21,7 @@ gcc 10.c -o exploit
 
 ```
 
-***Final ***
+***Final***
 
 ```
 
